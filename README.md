@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1><p align="center">Taha</p> 
 
-<!--
-**Tahalani/Tahalani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- <p align="center">
+    <a href="https://github.com/Tahalani">
+        <img src="https://gpvc.arturio.dev/Tahalani">
+    </a>
+</p> -->
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="https://www.linkedin.com/in/taha-alani/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Description
+3th year student at EPITECH Paris
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tahalani&theme=monokai&show_icons=true&border_radius=30&include_all_commits=true&count_private=true">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahalani&theme=monokai&show_icons=true&border_radius=30&langs_count=10&layout=compact">
+</p>

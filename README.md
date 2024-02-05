@@ -16,8 +16,5 @@
 3th year student at EPITECH Paris
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tahalani&theme=monokai&show_icons=true&border_radius=30&include_all_commits=true&count_private=true">
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahalani&theme=monokai&show_icons=true&border_radius=30&langs_count=10&layout=compact">
 </p>

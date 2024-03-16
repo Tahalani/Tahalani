@@ -7,7 +7,7 @@
 
 <h2>About me</h2>
 
-- I am 21 years old
+- 👽 I am 21 years old
 - 👨‍🎓 3th years student at Epitech
 - 🇫🇷 French developer
 

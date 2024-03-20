@@ -25,6 +25,7 @@
 ✔  I'm currently a technical assistant and a 3rd year student at epitech paris. <br>
 ✔  How to reach me: <br> &nbsp; &nbsp; * [Email-@taha.alani](taha.alani@epitech.eu) <br>
                          &nbsp; &nbsp; * [linkedIn-@taha.alani](https://www.linkedin.com/in/taha-alani/) <br>
+                         &nbsp; &nbsp; * [Website-@taha-alani.com](https://taha-alani.com/) <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

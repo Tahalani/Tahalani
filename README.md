@@ -3,8 +3,8 @@
 </h1>
  
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Developper;Epitech+Paris" > 
+<p align="left">
+ <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Developper+Freelance;Epitech+Paris" > 
 </p>
 
 
@@ -22,7 +22,7 @@
 ✔  I’m french developer <br>
 ✔  I’m currently learning Everything related with software engineering .. <br>
 ✔  some of my projects are available at https://github.com/Tahalani <br>
-✔  I'm currently a technical assistant and a 4th year student at epitech paris. <br>
+✔  I'm currently a freelance developper and a 4th year student at epitech paris. <br>
 ✔  How to reach me: <br> &nbsp; &nbsp; * [Malt-@tahalani](https://www.malt.fr/profile/tahalani) <br>
                          &nbsp; &nbsp; * [Email-@taha.alani](taha.alani@epitech.eu) <br>
                          &nbsp; &nbsp; * [linkedIn-@taha.alani](https://www.linkedin.com/in/taha-alani/) <br>

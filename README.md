@@ -18,11 +18,11 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
->✔ I'm 21 years old  <br>
+>✔ I'm 22 years old  <br>
 ✔  I’m french developer <br>
 ✔  I’m currently learning Everything related with software engineering .. <br>
 ✔  some of my projects are available at https://github.com/Tahalani <br>
-✔  I'm currently a technical assistant and a 3rd year student at epitech paris. <br>
+✔  I'm currently a technical assistant and a 4th year student at epitech paris. <br>
 ✔  How to reach me: <br> &nbsp; &nbsp; * [Malt-@tahalani](https://www.malt.fr/profile/tahalani) <br>
                          &nbsp; &nbsp; * [Email-@taha.alani](taha.alani@epitech.eu) <br>
                          &nbsp; &nbsp; * [linkedIn-@taha.alani](https://www.linkedin.com/in/taha-alani/) <br>

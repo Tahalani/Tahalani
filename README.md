@@ -1,11 +1,11 @@
 <h1 align="center">Taha ALANI</h1>
 
 <p align="center">
-  <strong>Fullstack Developer | Freelance</strong>
+  <strong>Fullstack Developer | Freelance | AI & Product Builder</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;3+Years+of+Experience;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Fullstack+Developer+%7C+3+Years+of+Experience;20%2B+Companies+Helped;SaaS+%E2%80%A2+AI+Agents+%E2%80%A2+Scalable+Platforms;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+TypeScript" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,9 +19,24 @@
 
 ### About Me
 
-Fullstack developer and freelancer based in Paris with 3 years of professional experience.
-I build modern web applications from design to deployment — clean code, performant APIs, and polished UIs.
-Open to freelance opportunities and collaborations.
+Fullstack developer and freelancer based in Paris with 3 years of professional experience. **Super Malter** on Malt.
+
+I've helped **20+ companies** build scalable web platforms, SaaS products, and AI-powered solutions from architecture to production. Specialized in TypeScript, React, Node.js, and AI integration (LLMs, agents, automation).
+
+Currently building SaaS products and AI agents — from WhatsApp-connected AI assistants serving 8,000+ users to end-to-end automation platforms.
+
+---
+
+### Experience Highlights
+
+**Full-Stack SaaS Engineer | AI & Product Builder** — Freelance *(2+ years)*
+> SaaS platforms from scratch, billing tools, AI-driven automation — NestJS + Prisma + PostgreSQL, React/TypeScript frontends, cloud deployment.
+
+**Limova.ai** — Lead Fullstack Developer *(6 months)*
+> Led development of Charly+, a WhatsApp AI agent. Backend on AWS with Docker & Kubernetes, serving 8,000+ active clients.
+
+**Mob Success** — Fullstack Developer *(4 months)*
+> Frontend optimization, bug resolution, and app maintenance for improved UX and performance.
 
 ---
 
@@ -40,12 +55,21 @@ Open to freelance opportunities and collaborations.
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**AI / Automation**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)

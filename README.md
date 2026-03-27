@@ -1,79 +1,81 @@
-<h1 align="center">
- 👋 Hi, I'm Taha ALANI!
-</h1>
- 
-
-<p align="left">
- <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Developper+Freelance;Epitech+Paris" > 
-</p>
-
-
-</br> 
-
-<a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-</br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
->✔ I'm 22 years old  <br>
-✔  I’m french developer <br>
-✔  I’m currently learning Everything related with software engineering .. <br>
-✔  some of my projects are available at https://github.com/Tahalani <br>
-✔  I'm currently a freelance developper and a 4th year student at epitech paris. <br>
-✔  How to reach me: <br> &nbsp; &nbsp; * [Malt-@tahalani](https://www.malt.fr/profile/tahalani) <br>
-                         &nbsp; &nbsp; * [Email-@taha.alani](taha.alani@epitech.eu) <br>
-                         &nbsp; &nbsp; * [linkedIn-@taha.alani](https://www.linkedin.com/in/taha-alani/) <br>
-                         &nbsp; &nbsp; * [Website-@taha-alani.com](https://taha-alani.com/) <br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 align="left"> 💻 Languages and Tools:</h2>
-<h3>Languages</h3>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Py" alt="Py" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;
-
-<h3>Library / Framework js/ts </h3>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextJs" alt="NextJs" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="NestJs" alt="NestJs" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="TailwindCSS" alt="TailwindCSS" width="50" height="50"/>&nbsp;
-
-<h3>OS / Tools</h3>
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Arch-Linux" alt="Arch-Linux" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="50" height="50"/>&nbsp;
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="50" height="50"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50" height="50"/>&nbsp;
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📊 My Github Stats
-
-<p align="center" style="margin-right:0px;padding-right:0px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahalani&theme=radical&layout=compact&langs_count=6" width="60%" />
-</p>
-
-## Connect with me:
+<h1 align="center">Taha ALANI</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/taha-alani/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=ffffff"/></a>
-  <a href="mailto:taha.alani@epitech.eu?subject=[GitHub]%20🔥%20profile%20contact&body=Hello"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=ffffff"/></a>
+  <strong>Fullstack Developer | Freelance</strong>
 </p>
 
-<h2 align='center'>Thank You !</h2>
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;3+Years+of+Experience;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/taha-alani/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.malt.fr/profile/tahalani"><img src="https://img.shields.io/badge/Malt-FC5757?style=for-the-badge&logo=malt&logoColor=white" alt="Malt"/></a>
+  <a href="mailto:com.talani@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://taha-alani.com/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=safari&logoColor=white" alt="Website"/></a>
+</p>
+
+---
+
+### About Me
+
+Fullstack developer and freelancer based in Paris with 3 years of professional experience.
+I build modern web applications from design to deployment — clean code, performant APIs, and polished UIs.
+Open to freelance opportunities and collaborations.
+
+---
+
+### Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Area](https://github.com/Tahalani/Area) | Fullstack automation platform inspired by Zapier/IFTTT | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [R-type](https://github.com/Tahalani/R-type) | Multiplayer 2D shoot'em up game engine | ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| [Gomoku](https://github.com/Tahalani/Gomoku) | AI that plays Go using advanced algorithms | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
+| [Raytracer](https://github.com/Tahalani/Raytracer) | 3D ray tracing engine with realistic rendering | ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white) |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tahalani&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tahalani&theme=github_dark_dimmed&hide_border=true" height="165" alt="GitHub Streak"/>
+</p>
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/taha-alani/">LinkedIn</a> &bull;
+  <a href="https://www.malt.fr/profile/tahalani">Malt</a> &bull;
+  <a href="https://taha-alani.com/">taha-alani.com</a> &bull;
+  <a href="mailto:com.talani@gmail.com">com.talani@gmail.com</a>
+</p>

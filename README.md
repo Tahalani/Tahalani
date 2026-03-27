@@ -19,7 +19,7 @@
 
 ### About Me
 
-Fullstack developer and freelancer based in Paris with 3 years of professional experience. **Super Malter** on Malt.
+Fullstack developer and freelancer based in Paris with 3 years of professional experience. **Super Malter 2** on Malt.
 
 I've helped **20+ companies** build scalable web platforms, SaaS products, and AI-powered solutions from architecture to production. Specialized in TypeScript, React, Node.js, and AI integration (LLMs, agents, automation).
 

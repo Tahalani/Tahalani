@@ -90,9 +90,7 @@ Currently building SaaS products and AI agents — from WhatsApp-connected AI as
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tahalani&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tahalani&theme=github_dark_dimmed&hide_border=true" height="165" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Tahalani&theme=github_dark_dimmed&hide_border=true" height="180" alt="GitHub Streak"/>
 </p>
 
 ---
